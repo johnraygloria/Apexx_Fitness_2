@@ -5,7 +5,7 @@ const Attendance = () => {
     <div className="p-6">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-white">Attendance Management</h1>
-        <p className="text-gray-400 mt-2">Track and manage member attendance</p>
+        <p className="text-gray-400 mt-2">Track and manage members attendance</p>
       </div>
 
       <div className="flex flex-wrap gap-4 mb-6">
